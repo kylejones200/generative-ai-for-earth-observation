@@ -1,0 +1,149 @@
+# Generative AI for Earth Observation Artificial intelligence seeks to replicate human decision making using
+machines. Now we can apply this approach to Earth Observation
+
+### AI for Earth Observation
+Artificial intelligence uses mathematical models to identify patterns in
+information. When applied to Big Data sets, for example, NASA Earth
+Observation data, artificial intelligence and ML can be used to filter
+through long periods of information and symbolism quickly and
+proficiently to track down connections that would be unimaginable for a
+human to recognize. NASA's Earth Science Data Systems (ESDS) Program is
+focused on the use of artificial intelligence and perceives its
+capability to altogether progress existing information framework
+abilities, further develop activities, and boost the use of NASA Earth
+observation data.
+
+
+<figcaption>Photo by Iain Kennedy on Unsplash</figcaption>
+
+
+ESDS AI/ML research is directed principally through NASA's Interagency
+Implementation and Advanced Concepts Team (IMPACT). Influence is an
+interdisciplinary group that attempts to add the ESDS objective of
+administering the lifecycle of Geology information to augment the
+logical return of NASA's missions and examinations for researchers,
+leaders, and society. The IMPACT group comprises AI subject matter
+experts, PC researchers, and EO data trained professionals and attempts
+to fabricate devices and pipelines for applying ML calculations to NASA
+EO data to further develop information disclosure.
+
+Alongside artificial intelligence/ML work through Effect, groups at NASA
+Earth Noticing Framework Information and Data Framework (EOSDIS)
+Circulated Dynamic Document Communities (DAACs) are applying artificial
+intelligence and ML to the information they chronicle and convey. One
+model is the continuous work at NASA's Goddard Earth Sciences Data and
+Information Services Center (GES DISC) to execute an AI structure using
+natural language processing (NLP) to make it more straightforward for
+searching through datasets.
+
+ESDS cultivates artificial intelligence/ML research through NASA's
+Advancing Collaborative Connections for Earth System Science (ACCESS)
+program. This program creates and executes advancements to make due,
+find, and use NASA's document of Earth perceptions for logical
+exploration and applications on the side of NASA Geology research
+objectives. The Entrance 2019 request explicitly looked for innovation
+improvements for ML connected with NASA Geology information frameworks
+(counting new preparation datasets for ML).
+
+Another NASA-upheld undertaking for cultivating AI/ML research is the
+Frontier Development Lab (FDL). The FDL was made as a drive through
+NASA's Office of the Central Technologist and is an applied examination
+gas pedal based at NASA's Ames Exploration Center in Silicon Valley, CA.
+Through inward NASA joint efforts as well as coordinated efforts with
+the scholarly community and Silicon Valley organizations, the FDL
+attempts to additional NASA artificial intelligence projects.
+
+### NASA ESDS Program AI/ML Assets
+**Artificial intelligence in real life**
+
+Learn about the numerous ways artificial intelligence is being used in
+research and in the advancement of NASA-upheld items and applications to
+work on the value of NASA Earth noticing information:
+
+- Ascent of the AI
+- Including Trees in Africa's Drylands
+- AI Prototyping
+- Profound Learning-based Tropical storm Power Assessor
+- Peculiarities Location Entryway
+
+NASA's open science strategy makes more than 70 petabytes (PB) of EO
+Data accessible without limitation alongside the code for examining this
+information and every supporting archive. Worldwide exploration groups
+are tracking down better approaches to apply artificial intelligence to
+this information and frameworks to empower quicker, more productive
+examination.
+
+**AI/ML forEarth Observation**
+
+This is a quickly changing and crucial time for Earth Observation (EO),
+particularly for those engaged with its use for environment and
+meteorology.
+
+In this course, you'll get an exhaustive outline of the Copernicus
+Program and the abundance of EO data it gives, as well as how artificial
+intelligence and ML are changing the translation of EO data.
+
+**Grasp key artificial intelligence and ML ideas**
+
+You'll find out about the Copernicus information and administrations and
+the monstrous measures of Earth perception information that are gathered
+consistently from space, covering the seas, land, air, and, over longer
+periods, the environment.
+
+You'll then, at that point, learn fundamental artificial intelligence
+and ML ideas and types, investigating how they have changed numerous
+parts of the EO 'esteem chain'.
+
+This incorporates programmed include extraction, better approaches for
+handling extremely enormous informational indexes, and the improvement
+of new items and administrations.
+
+**Investigate EO information with worldwide specialists**
+
+This course is subsidized by the Copernicus Program and has been
+assembled by EUMETSAT, ECMWF, Mercator Sea Global, and the EEA.
+
+Their specialists in artificial intelligence, EO, and Earth framework
+observing will take you through four themed weeks --- land, sea, air,
+and the environment --- leaving you knowledgeable in the complexities of
+EO and satellite information, as well as how artificial intelligence and
+ML can open its maximum capacity.
+
+**Geology Information Examination Strategies and Abilities**
+
+ESDA strategies are viewed as computational techniques. More than once,
+people looking to perform Geology express their need to use science,
+mathematical displaying, insights, programming, and the capacity to
+coordinate information from across different spaces. Likewise, there is
+a requirement for skill in methods, for example, rule learning,
+grouping, bunch examination, information combination, AI, brain
+organizations, oddity recognition, displaying, time series examination,
+and perception.
+
+ESDA abilities are viewed as the capacity to apply strategies.
+Concerning Geology, this alludes to applying ESDA strategies to the
+Geology spaces being examined. Subsequently, ESDA abilities remember
+information for specific Geology spaces where information investigation
+can propel the comprehension of science.
+
+ESDA abilities additionally allude to the capacity to work with making
+information valuable. This incorporates understanding the significance
+of the information lifecycle, information structures, metadata,
+information reconciliation, and information translation.
+
+### Related Stories
+- [[Generative Artificial intelligence And the Climate: Can technology
+  help save the
+  Planet?](https://medium.com/@kylejones_47003/generative-artificial-intelligence-and-the-climate-can-technology-help-save-the-planet-a3357df11a34)]
+- [[3 ways Generative AI can help assess trends in Environmental
+  Change](https://medium.com/@kylejones_47003/3-ways-generative-ai-can-help-assess-trends-in-environmental-change-e230f82aaaf9)]
+- [[Unlocking New Frontiers: Generative AI for Geoscience and Earth
+  System
+  Science](https://medium.com/@kylejones_47003/10-ways-to-apply-generative-ai-in-earth-and-space-sciences-3ab1f8b9fa40)]
+::::::::By [Kyle Jones](https://medium.com/@kyle-t-jones) on
+[August 30, 2023](https://medium.com/p/74b41521651d).
+
+[Canonical
+link](https://medium.com/@kyle-t-jones/generative-ai-for-earth-observation-74b41521651d)
+
+Exported from [Medium](https://medium.com) on November 10, 2025.
